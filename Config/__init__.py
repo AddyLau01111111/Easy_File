@@ -1,0 +1,20 @@
+# 导出全局配置、弹窗配置变量
+
+from .settings import (
+    DEFAULT_ROOT_PATH,
+    SHOW_HIDDEN_FILE_DEFAULT,
+    EXPLORER_PAGE_SIZE,
+    LOG_PATH,
+    DIALOG_TITLE_ERROR,
+    DIALOG_TITLE_WARN
+)
+
+# 定义对外暴露的变量
+__all__ = [
+    "DEFAULT_ROOT_PATH",
+    "SHOW_HIDDEN_FILE_DEFAULT",
+    "EXPLORER_PAGE_SIZE",
+    "LOG_PATH",
+    "DIALOG_TITLE_ERROR",
+    "DIALOG_TITLE_WARN"
+]
