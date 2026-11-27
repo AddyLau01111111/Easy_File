@@ -1,10 +1,10 @@
-###### **## 项目名称**
+## 项目名称
 
 Easy File，基于 Flet GUI 的文件资源管理器。
 
 
 
-###### **## ✨ 功能**
+## ✨ 功能
 
 \- 功能1：可供用户查看PC中有哪些文件（启动后，默认地址为当前用户桌面）
 
@@ -14,7 +14,7 @@ Easy File，基于 Flet GUI 的文件资源管理器。
 
 
 
-###### **## 📦 运行环境**
+## 📦 运行环境
 
 \- Python >= 3.15.2
 
@@ -22,7 +22,7 @@ Easy File，基于 Flet GUI 的文件资源管理器。
 
 
 
-###### **## 🚀 项目部署**
+## 🚀 项目部署
 
 1\. 克隆项目
 
@@ -54,9 +54,9 @@ python main.py
 
 
 
-###### **## 📷 截图**
+## 📷 截图
 
-!\[文件夹下有文件](screenshots/Dir\_with\_file.png)
+![文件夹下有文件](screenshots/Dir\_with\_file.png)
 
-!\[文件夹下无文件](screenshots/Dir\_without\_file.png)
+![文件夹下无文件](screenshots/Dir\_without\_file.png)
 
